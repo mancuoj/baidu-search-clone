@@ -2,8 +2,7 @@ import Search from '../Search'
 
 export default function App() {
   return (
-    <div className="flex min-h-screen justify-center p-10">
-      <img src="" alt="" />
+    <div className="flex min-h-screen justify-center p-20">
       <Search />
     </div>
   )
